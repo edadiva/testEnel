@@ -6,7 +6,7 @@ public class Operations {
 		
 		BinaryNumber binaryNumber = new BinaryNumber();	
 		binaryNumber.solution();
-		binaryNumber.getAmountOperation();
+		
 	}
 	
 
